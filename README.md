@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/a815842b-b6d0-47ac-ba71-a1360c4f3254)
 # Currency Converter
 A simple currency converter web application built using HTML, CSS, and JavaScript. It uses the [ExchangeRate API](https://exchangerate-api.com/) to fetch live currency exchange rates.
 ## Features
